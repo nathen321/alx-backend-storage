@@ -1,2 +1,2 @@
 // document insert
-db.my_db.insert({name: "ALX"})
+db.school.insert({name: "Holberton school"})
